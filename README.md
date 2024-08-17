@@ -1,5 +1,6 @@
 # Olá, eu sou Érica Monteiro! 🤭
 
+
 ## Sobre mim:
 Sou estudante de Análise e Desenvolvimento de Sistemas, estando atualmente no 2º semestre. Sou apaixonada por tecnologia e programação. Estou constantemente buscando aprender e me aprimorar, com um foco em desenvolvimento back-end e automação.
 
@@ -10,7 +11,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, estando atualmente no 2
 - **Frameworks e Plataformas**: Node.js, Express, Flask;
 - **Banco de Dados**: MySQL, Postgresql, MongoDB;
 - **Ferramentas de Versionamento**: Git, GitHub;
-- **Automação e Scripting**: Bash, PowerShell;
 - **Outras Ferramentas**: Docker (básico), VS Code, Postman. 
 
 ## Estatísticas:
@@ -19,5 +19,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, estando atualmente no 2
 
 
 --- 
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/ericamonteiroo/)
+- [E-mail](mailto:erica-monteiro@mail.com)
 
 Agradeço por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato para conversarmos sobre tecnologia e oportunidades! 💜

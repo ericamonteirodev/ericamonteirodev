@@ -1,4 +1,4 @@
-# Hey, dear! 🤭
+# Olá, eu sou Érica Monteiro! 🤭
 
 Desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas.
 

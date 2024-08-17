@@ -1,6 +1,7 @@
 # Olá, eu sou Érica Monteiro! 🤭
 
-Desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas.
+## Sobre mim:
+Sou estudante de Análise e Desenvolvimento de Sistemas, estando atualmente no 2º semestre. Sou apaixonada por tecnologia e programação. Estou constantemente buscando aprender e me aprimorar, com um foco em desenvolvimento back-end e automação.
 
 ## Habilidades: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
